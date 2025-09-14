@@ -5,8 +5,9 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah koleksi yang dimiliki:
 # Koleksi
 
-1.[(3679-11008-1-SM)](ebook)(3679-11008-1-SM.pdf)- Heriyanto (2018)
-2.[(Analisis Bibliometrik Penelitian dengan Tema Digital Archive)](ebook)(Analisis Bibliometrik Penelitian dengan Tema Digital Archive.pdf)- Edi Wibowo (2022)
+1.[(3679-11008-1-SM)](ebook)(3679-11008-1-SM.pdf)-Heriyanto (2018)
+2.[(Analisis Bibliometrik Penelitian dengan Tema Digital Archive)](ebook)(Analisis Bibliometrik Penelitian dengan Tema Digital Archive.pdf)-Edi Wibowo (2022)
+3.[(Buku Digital Metode Penelitian Kualitatif Kuantitatif dan Kombinasi)](ebook)(Buku Digital Metode Penelitian Kualitatif Kuantitatif dan Kombinasi.pdf)-Sena Wahyu P. dkk (2022)
 
 ....
 
