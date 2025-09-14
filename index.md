@@ -14,6 +14,7 @@ Berikut ini adalah koleksi yang dimiliki:
 7.[(persepsi pemustaka pada desain interior)](ebook)(persepsi pemustaka pada desain interior.pdf)-Erika Mondang Septiani dkk (2015)
 8.[(Penerapan Teori Difusi Inovasi Dalam Community Engagement)](ebook)(Penerapan Teori Difusi Inovasi Dalam Community Engagement.pdf)-Eli Jamilah Mihardja dkk (2022)
 9.[(Persepsi Siswa tentang Desain Interior Baru Perpustakaan)](ebook)(Persepsi Siswa tentang Desain Interior Baru Perpustakaan.pdf)-Rian Gunawan (2024)
+10.[(The Importance of  User Education)](ebook)(The Importance of  User Education.pdf)-Nenden Sri Aprianti (2022)
 
 ....
 
