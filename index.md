@@ -12,6 +12,7 @@ Berikut ini adalah koleksi yang dimiliki:
 5.[(Pentingnya Pendidikan Pemakai (User Education) di Perpustakaan Perguruan Tinggi)](ebook)(Pentingnya Pendidikan Pemakai (User Education) di Perpustakaan Perguruan Tinggi.pdf)-Lailan Azizah Rangkuti (2014)
 6.[(Menggabungkan Fungsi dan Estetika Pendekatan Desain Interior yang Holistik di Direktorat Perpustakaan UII)](ebook)(Menggabungkan Fungsi dan Estetika Pendekatan Desain Interior yang Holistik di Direktorat Perpustakaan UII.pdf)-Tegush Prasetyo Utomo (2023)
 7.[(persepsi pemustaka pada desain interior)](ebook)(persepsi pemustaka pada desain interior.pdf)-Erika Mondang Septiani dkk (2015)
+8.[(Penerapan Teori Difusi Inovasi Dalam Community Engagement)](ebook)(Penerapan Teori Difusi Inovasi Dalam Community Engagement.pdf)-Eli Jamilah Mihardja dkk (2022)
 
 ....
 
