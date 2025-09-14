@@ -9,6 +9,7 @@ Berikut ini adalah koleksi yang dimiliki:
 2.[(Analisis Bibliometrik Penelitian dengan Tema Digital Archive)](ebook)(Analisis Bibliometrik Penelitian dengan Tema Digital Archive.pdf)-Edi Wibowo (2022)
 3.[(Buku Digital Metode Penelitian Kualitatif Kuantitatif dan Kombinasi)](ebook)(Buku Digital Metode Penelitian Kualitatif Kuantitatif dan Kombinasi.pdf)-Sena Wahyu P. dkk (2022)
 4.[(Desain Interior Perpustakaan Universitas Indonesia dalam Persepsi Pemustaka)](ebook)(Desain Interior Perpustakaan Universitas Indonesia dalam Persepsi Pemustaka.pdf)-Winda Ayu Sakirah Chaniago dkk (2024)
+5.[(Pentingnya Pendidikan Pemakai (User Education) di Perpustakaan Perguruan Tinggi)](ebook)(Pentingnya Pendidikan Pemakai (User Education) di Perpustakaan Perguruan Tinggi.pdf)-Lailan Azizah Rangkuti (2014)
 
 ....
 
