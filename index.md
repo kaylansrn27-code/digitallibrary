@@ -16,6 +16,7 @@ Berikut ini adalah koleksi yang dimiliki:
 9.[(Persepsi Siswa tentang Desain Interior Baru Perpustakaan)](ebook)(Persepsi Siswa tentang Desain Interior Baru Perpustakaan.pdf)-Rian Gunawan (2024)
 10.[(The Importance of  User Education)](ebook)(The Importance of  User Education.pdf)-Nenden Sri Aprianti (2022)
 11.[(Pengaruh Desain Interior terhadap Minat Kunjung Pemustaka)](ebook)(Pengaruh Desain Interior terhadap Minat Kunjung Pemustaka.pdf)-Hadira Latiar dkk (2024)
+12.[(BEYOND THE BOOKSHELF)](ebook)(BEYOND THE BOOKSHELF.pdf)-Kayla Nisrina (2025)
 
 ....
 
