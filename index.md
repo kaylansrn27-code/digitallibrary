@@ -1,4 +1,4 @@
-# Digital Library
+# 📚 Digital Library
 
 Selamat Datang di Perpustakaan Digital
 
@@ -13,6 +13,7 @@ Berikut ini adalah koleksi yang dimiliki:
 6.[(Menggabungkan Fungsi dan Estetika Pendekatan Desain Interior yang Holistik di Direktorat Perpustakaan UII)](ebook)(Menggabungkan Fungsi dan Estetika Pendekatan Desain Interior yang Holistik di Direktorat Perpustakaan UII.pdf)-Tegush Prasetyo Utomo (2023)
 7.[(persepsi pemustaka pada desain interior)](ebook)(persepsi pemustaka pada desain interior.pdf)-Erika Mondang Septiani dkk (2015)
 8.[(Penerapan Teori Difusi Inovasi Dalam Community Engagement)](ebook)(Penerapan Teori Difusi Inovasi Dalam Community Engagement.pdf)-Eli Jamilah Mihardja dkk (2022)
+9.[(Persepsi Siswa tentang Desain Interior Baru Perpustakaan)](ebook)(Persepsi Siswa tentang Desain Interior Baru Perpustakaan.pdf)-Rian Gunawan (2024)
 
 ....
 
