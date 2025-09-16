@@ -20,7 +20,7 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ....
 
-https://kaylansrn27-code.github.io/digitallibrary/webti/halaman1.html
+kaylansrn27-code.github.io/digitallibrary/webti/halaman1.html
 
 ....
 *Powered by Github pages*
