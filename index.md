@@ -18,8 +18,7 @@ Berikut ini adalah koleksi yang dimiliki:
 11. [(Pengaruh Desain Interior terhadap Minat Kunjung Pemustaka)](ebook)(Pengaruh Desain Interior terhadap Minat Kunjung Pemustaka.pdf)-Hadira Latiar dkk (2024)
 12. [(BEYOND THE BOOKSHELF)](ebook)(BEYOND THE BOOKSHELF.pdf)-Kayla Nisrina (2025)
 
-....
-
+---
 <a href="webti/halaman1.html">Halaman 1</a>
 
 *Powered by Github pages*
